@@ -3,10 +3,12 @@ This repository contains my very first Streamlit project, an interactive web app
 Key Features:
 Personal Introduction: Displays my name, profession, and contact information, all designed with a clean and minimalist approach.
 Erasmus+ and IT Background: Highlights my goal to leverage IT internships and Erasmus+ experiences to develop impactful tech solutions, with a focus on AWS security systems and image processing techniques.
+
 Column Layout: Implements a 3-column design with unique content:
 Column 1: A brief introduction to Lorem Ipsum, for layout demonstration.
 Column 2: An image randomly generated from the internet.
 Column 3: A simple list with dynamic bullet points.
+
 How to Use:
 Clone the repository.
 Install the necessary dependencies using pip install -r requirements.txt.
